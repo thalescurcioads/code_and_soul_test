@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="332" height="210" viewBox="0 0 332 210">
+  <g id="Grupo_3335" data-name="Grupo 3335" transform="translate(-345 -3064)">
+    <g id="Grupo_3272" data-name="Grupo 3272" opacity="0.6">
+      <rect id="Retângulo_700" data-name="Retângulo 700" width="68" height="68" transform="translate(405 3130)" fill="#09c623"/>
+      <rect id="Retângulo_701" data-name="Retângulo 701" width="65" height="65" transform="translate(541 3130)" fill="#09c623"/>
+      <rect id="Retângulo_127" data-name="Retângulo 127" width="34" height="44" transform="translate(451 3168)" fill="#9dfc00"/>
+      <rect id="Retângulo_132" data-name="Retângulo 132" width="29" height="31" transform="translate(551 3140)" fill="#9dfc00"/>
+      <rect id="Retângulo_133" data-name="Retângulo 133" width="29" height="31" transform="translate(586 3140)" fill="#9dfc00"/>
+      <rect id="Retângulo_134" data-name="Retângulo 134" width="29" height="32" transform="translate(551 3177)" fill="#9dfc00"/>
+      <rect id="Retângulo_135" data-name="Retângulo 135" width="29" height="32" transform="translate(586 3177)" fill="#9dfc00"/>
+      <g id="Elipse_32" data-name="Elipse 32" transform="translate(375 3094)" fill="none" stroke="#151515" stroke-width="2" stroke-dasharray="8 6">
+        <circle cx="75" cy="75" r="75" stroke="none"/>
+        <circle cx="75" cy="75" r="74" fill="none"/>
+      </g>
+      <g id="Elipse_33" data-name="Elipse 33" transform="translate(497 3094)" fill="none" stroke="#151515" stroke-width="2" stroke-dasharray="8 6">
+        <circle cx="75" cy="75" r="75" stroke="none"/>
+        <circle cx="75" cy="75" r="74" fill="none"/>
+      </g>
+    </g>
+    <g id="Grupo_3278" data-name="Grupo 3278" transform="translate(97 -1315.049)">
+      <rect id="Retângulo_126" data-name="Retângulo 126" width="68" height="68" transform="translate(308 4445.049)" fill="#09c623"/>
+      <rect id="Retângulo_131" data-name="Retângulo 131" width="65" height="65" transform="translate(444 4445.049)" fill="#09c623"/>
+      <g id="Grupo_2899" data-name="Grupo 2899" transform="translate(354.172 4454.752)">
+        <rect id="Retângulo_127-2" data-name="Retângulo 127" width="34" height="44" transform="translate(-0.172 28.298)" fill="#9dfc00"/>
+        <rect id="Retângulo_132-2" data-name="Retângulo 132" width="29" height="31" transform="translate(99.828 0.298)" fill="#9dfc00"/>
+        <rect id="Retângulo_133-2" data-name="Retângulo 133" width="29" height="31" transform="translate(134.828 0.298)" fill="#9dfc00"/>
+        <rect id="Retângulo_134-2" data-name="Retângulo 134" width="29" height="32" transform="translate(99.828 37.298)" fill="#9dfc00"/>
+        <rect id="Retângulo_135-2" data-name="Retângulo 135" width="29" height="32" transform="translate(134.828 37.298)" fill="#9dfc00"/>
+      </g>
+      <g id="Elipse_24" data-name="Elipse 24" transform="translate(278 4409.049)" fill="none" stroke="#151515" stroke-width="2" stroke-dasharray="8 6">
+        <circle cx="75" cy="75" r="75" stroke="none"/>
+        <circle cx="75" cy="75" r="74" fill="none"/>
+      </g>
+      <g id="Elipse_25" data-name="Elipse 25" transform="translate(400 4409.049)" fill="none" stroke="#151515" stroke-width="2" stroke-dasharray="8 6">
+        <circle cx="75" cy="75" r="75" stroke="none"/>
+        <circle cx="75" cy="75" r="74" fill="none"/>
+      </g>
+    </g>
+  </g>
+</svg>

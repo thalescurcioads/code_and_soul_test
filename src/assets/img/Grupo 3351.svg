@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="80" height="80" viewBox="0 0 80 80">
+  <defs>
+    <filter id="Icon_simple-whatsapp" x="0" y="0" width="80" height="80" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#09c623" flood-opacity="0.6"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Grupo_3351" data-name="Grupo 3351" transform="translate(-1789.459 -864.977)">
+    <g transform="matrix(1, 0, 0, 1, 1789.46, 864.98)" filter="url(#Icon_simple-whatsapp)">
+      <path id="Icon_simple-whatsapp-2" data-name="Icon simple-whatsapp" d="M42.75,7.185A25.3,25.3,0,0,0,25.094,0,24.77,24.77,0,0,0,3.533,37.162L0,50l13.2-3.442a25.13,25.13,0,0,0,11.9,3.015h.013A24.846,24.846,0,0,0,42.75,7.185" transform="translate(15 15)" fill="#f2f2f2"/>
+    </g>
+    <path id="Icon_simple-whatsapp-3" data-name="Icon simple-whatsapp" d="M34.64,28.955c-.627-.312-1.868-.8-2.437-1.006s-.985-.312-1.4.312-1.606,2.008-1.966,2.42-.727.437-1.346.156a16.905,16.905,0,0,1-5.005-3.093,18.9,18.9,0,0,1-3.458-4.312c-.362-.625-.04-.969.271-1.281.283-.281.627-.719.939-1.089a5.28,5.28,0,0,0,.619-1.033,1.145,1.145,0,0,0-.052-1.091c-.156-.312-1.4-3.374-1.92-4.595-.5-1.216-1.014-1.062-1.4-1.062-.358-.031-.773-.031-1.189-.031a2.348,2.348,0,0,0-1.66.748,6.954,6.954,0,0,0-2.177,5.155c0,3.031,2.229,5.968,2.539,6.4.31.406,4.385,6.655,10.623,9.342,1.487.625,2.645,1,3.549,1.31a8.618,8.618,0,0,0,3.916.252c1.2-.19,3.681-1.5,4.2-2.97a5.156,5.156,0,0,0,.375-2.968c-.154-.281-.562-.437-1.187-.719m-11.344,15.5h-.033a20.837,20.837,0,0,1-10.529-2.874l-.75-.446L6,44.019,8.1,36.427l-.5-.781A20.658,20.658,0,0,1,39.774,10.161a20.388,20.388,0,0,1,6.059,14.56A20.684,20.684,0,0,1,25.14,45.31" transform="translate(1804.459 879.977)" fill="#09c623"/>
+  </g>
+</svg>
